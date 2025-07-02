@@ -47,7 +47,8 @@ AutoDAO Sensei makes DAO governance **simple, accessible, and fully on-chain** â
 ```bash
 git clone https://github.com/piyushtorawane/autodaosensei.git
 cd autodaosensei
-2. Start Blockchain Node (Hardhat)
+
+#### 2. Start Blockchain Node (Hardhat)
 bash
 Copy
 Edit
